@@ -7,7 +7,9 @@ This README provides quick setup, usage, and contribution notes — plus a demo 
 
 ## Demo
 
-![Play Demo](assets/play.gif)
+<p align="center">
+  <img src="assets/play.gif" alt="Square Play demo" width="360" height="560">
+</p>
 
 > If the image doesn't render on GitHub, make sure the file exists at `assets/play.gif` and has been committed to the repository.
 
