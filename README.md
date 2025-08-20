@@ -7,7 +7,7 @@ This README provides quick setup, usage, and contribution notes — plus a demo 
 
 ## Demo
 
-<img src="assets/readme_files/play.gif" style="width:300px;height:auto;" />
+![Play Demo](assets/readme_files/play.gif)
 
 ---
 
