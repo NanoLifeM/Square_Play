@@ -1,15 +1,15 @@
 # Square Play
 
 A simple starter Flutter project for experimenting with a small playable UI.  
-This README provides quick setup, usage, and contribution notes — plus a demo GIF included from `assets/readme_files/play.mp4`.
+This README provides quick setup, usage, and contribution notes — plus a demo GIF included from `assets/readme_files/play.gif`.
 
 ---
 
 ## Demo
 
-![Play Demo](assets/readme_files/play.mp4)
+![Play Demo](assets/readme_files/play.gif)
 
-> If the image doesn't render on GitHub, make sure the file exists at `assets/readme_files/play.mp4` and has been committed to the repository.
+> If the image doesn't render on GitHub, make sure the file exists at `assets/readme_files/play.gif` and has been committed to the repository.
 
 ---
 
@@ -84,7 +84,7 @@ If `lib/` currently contains a single `main.dart`, consider splitting features i
 The demo GIF is referenced in this README using a relative path:
 
 ```md
-![Play Demo](assets/readme_files/play.mp4)
+![Play Demo](assets/readme_files/play.gif)
 ```
 
 GitHub will render the GIF automatically when the path is valid and the file is committed.
