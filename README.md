@@ -7,9 +7,7 @@ This README provides quick setup, usage, and contribution notes — plus a demo 
 
 ## Demo
 
-<img src="https://raw.githubusercontent.com/NanoLifeM/Square_Play/main/assets/readme_files/play.gif" width="360" alt="Square Play demo">
-
-
+![Play](assets/readme_files/play.gif)
 
 ---
 
