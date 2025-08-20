@@ -7,7 +7,9 @@ This README provides quick setup, usage, and contribution notes — plus a demo 
 
 ## Demo
 
-![Play Demo](assets/readme_files/play.gif)
+<p align="center">
+  <img src="assets/readme_files/play.gif" alt="Square Play demo" width="360">
+</p>
 
 > If the image doesn't render on GitHub, make sure the file exists at `assets/readme_files/play.gif` and has been committed to the repository.
 
@@ -76,18 +78,6 @@ Square_Play/
 ```
 
 If `lib/` currently contains a single `main.dart`, consider splitting features into `lib/src/`, `lib/widgets/`, `lib/screens/` and `lib/models/` as the project grows.
-
----
-
-## How to include the demo GIF in README
-
-The demo GIF is referenced in this README using a relative path:
-
-```md
-![Play Demo](assets/readme_files/play.gif)
-```
-
-GitHub will render the GIF automatically when the path is valid and the file is committed.
 
 ---
 
